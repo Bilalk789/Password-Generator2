@@ -7,3 +7,4 @@ I was given basic starter code like the HTML and CSS files and just had to input
 This code will run smoothly, and will give random passwords through the browser.
 ## User Error
 I had to use a lot 'var' variables to set the characteristics of the specified fields and it did make the code longer and hard to read.
+![bilalk789 github io_Password-Generator2_](https://github.com/Bilalk789/Password-Generator2/assets/153332797/327fe66a-948f-4099-a06a-ef9809843b8a)
