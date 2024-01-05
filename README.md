@@ -1,4 +1,4 @@
-# Portfolio
+# Password-Generator
 ## Project 
 In this project we were tasked with making the proogram wokr and writing code for the password generatoor to run and randomly make a password with the specified characters.
 ## Design
